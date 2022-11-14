@@ -15,7 +15,7 @@ export default function examplePage() {
           /> */}
 
           <p className='description'>
-            I am currently studying for a BS in Computer Science. 
+            I am a Freshman at CU boulder currently studying for a BS in computer science. 
           </p>
 
           <a className='button' href='/'>
