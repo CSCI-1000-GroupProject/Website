@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>CSCI 2275 Group Website</h1>
+        <h1 className='title'>CSCI 1000 Group Website</h1>
 
         {/* <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your

@@ -15,7 +15,10 @@ export default function examplePage() {
           /> */}
 
           <p className='description'>
-            I am a Freshman at CU boulder currently studying for a BS in computer science. 
+            I am a Freshman at the University of Colorado Boulder, currently studying for a BS in computer science.
+            I'm not focused on any particular field at the moment, but I am very interested in AI and Machine Learning. 
+            I love to spend my time playing volleyball, basketball, and other sports with friends. 
+            I also enjoy playing video games and strategic card games like poker. 
           </p>
 
           <a className='button' href='/'>
