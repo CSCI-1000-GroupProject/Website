@@ -1,7 +1,7 @@
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title>About Me</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
@@ -9,17 +9,13 @@ export default function examplePage() {
             <h1 className='title'>Hi there! I'm Rodolfo Martinez-Maldonado</h1>
           </div>
           <div>
-            <h3 className='title'>Sorry for the long name.</h3>
+            <h3 className='title'>Sorry for the long name lol.</h3>
           </div>
-          <img
-            className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
-          />
+          
 
           <p className='description'>
-            I'm a CS student at CU Boulder. I have some experience in JavaScript.
-            Aside from video games, I enjoy weight lifting and archery, though I'm still bad at it oof.
+            I'm a CS freshman, with some experience in JavaScript.
+            I enjoy weight lifting, archery, video games, animation, reading.
             I'm hoping to try out some skiing this winter break.
           </p>
 
