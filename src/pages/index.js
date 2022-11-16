@@ -27,11 +27,10 @@ export default function Home() {
             <p>Click Here to Go to His Page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
+            href='/rodolfo' className='card'>
+            <h3>Rodolfo's AboutMe&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Here's My Page
             </p>
           </a>
           <a
