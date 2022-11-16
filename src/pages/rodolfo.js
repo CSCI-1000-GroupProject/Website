@@ -6,10 +6,10 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hi there! I'm Rodolfo Martinez-Maldonado</h1>
+            <h1 className='title'>Hi there! I'm Rodolfo</h1>
           </div>
           <div>
-            <h3 className='title'>Sorry for the long name lol.</h3>
+            <h1 className='title'>Martinez-Maldonado</h1>
           </div>
           
 
