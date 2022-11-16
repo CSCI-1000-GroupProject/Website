@@ -29,9 +29,7 @@ export default function Home() {
           <a
             href='/rodolfo' className='card'>
             <h3>Rodolfo's AboutMe&rarr;</h3>
-            <p>
-              Here's My Page
-            </p>
+            <p>Click Here to Go to His Page</p>
           </a>
           <a
             href='https://nextjs.org/learn/foundations/about-nextjs'
