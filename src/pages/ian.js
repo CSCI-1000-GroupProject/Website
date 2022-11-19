@@ -8,17 +8,20 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Ian's AboutMe</h1>
           </div>
-          {/* <img
-            className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
-          /> */}
-
+          <img
+            className='image'
+            src='https://sf.ezoiccdn.com/ezoimgfmt/colinsreview.com/wp-content/uploads/2021/10/the-sopranos-s4e3-christopher.jpg?is-pending-load=1&ezimgfmt=rs:682x429/rscb1/ngcb1/notWebP'
+            alt='ian image'
+          />
+          
           <p className='description'>
+            <center>
+           
             I am a Freshman at the University of Colorado Boulder, currently studying for a BS in computer science.
             I'm not focused on any particular field at the moment, but I am very interested in AI and Machine Learning. 
             I love to spend my time playing volleyball, basketball, and other sports with friends. 
             I also enjoy playing video games and strategic card games like poker. 
+            </center>
           </p>
 
           <a className='button' href='/'>
